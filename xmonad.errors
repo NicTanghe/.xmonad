@@ -1,0 +1,4 @@
+/bin/ld.gold: error: xmonad.o: file is empty
+/tmp/ghc3206_0/ghc_5.o:ghc_4.c:function main: error: undefined reference to 'ZCMain_main_closure'
+collect2: error: ld returned 1 exit status
+`gcc' failed in phase `Linker'. (Exit code: 1)
